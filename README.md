@@ -1,4 +1,4 @@
-Testing different technologies
+Testing different technologies.
 А именно:
 1.	Kafka
 2.	Postgres
